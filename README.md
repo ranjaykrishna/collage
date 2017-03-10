@@ -17,7 +17,7 @@ Terminal command:
 python collage.py -paper paper.pdf -num-pages 8
 ```
 
-Below are explanation for the 
+Below are explanation for the parameters:
 ```
 -paper is the path to the pdf that you want to collage
 -num-pages is the number of pages to extract and collage
